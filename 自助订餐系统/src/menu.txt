@@ -1,0 +1,6 @@
+0001 Fish 12
+0002 Pork 15
+0011 Egg 1.5
+0012 Coffee 11
+1011 Milk 4
+1034 Tofu 3

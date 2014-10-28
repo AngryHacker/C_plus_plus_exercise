@@ -1,0 +1,12 @@
+0001 Fish 12 2
+Jane China 6627665
+2013 5 7 6 0
+0002 Pork 15 1
+Kate England 612243
+2013 4 23 12 1
+0012 Coffee 11 4
+Nancy China 642355
+2013 5 6 8 1
+1034 Tofu 3 5
+Potter England 660981
+2013 4 27 13 0

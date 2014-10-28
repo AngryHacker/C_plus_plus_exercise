@@ -1,0 +1,12 @@
+1111111 aaaaaa 0 18 mmmmmm A0011
+2222222 bbbbbb 1 20 mmmmmm A1100
+3333333 cccccc 1 19 mmmmmm A1101
+4444444 dddddd 1 20 mmmmmm A1110
+5555555 eeeeee 0 17 ffffff B0011
+6666666 ffffff 0 18 ffffff B0022
+7777777 gggggg 1 19 ffffff B0033
+8888888 hhhhhh 1 20 ffffff B0044
+9990000 rrrrrr 1 18 cccccc C1100
+9990001 kkkkkk 0 18 cccccc C1101
+9990011 wwwwww 1 19 cccccc C1102
+9991111 qqqqqq 1 20 cccccc C1110
